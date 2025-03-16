@@ -51,7 +51,7 @@
 
 **Question 13:**
 
-![image alt]()
+![image alt](https://github.com/RiyaRiya184/C-Practical/blob/b91d40b7c67f145d7642ced132ea27f51618fd9d/Question13.png)
 
 **Question 14:**
 
