@@ -39,7 +39,7 @@
 
 **Question 10:**
 
-![image alt]()
+![image alt](https://github.com/RiyaRiya184/C-Practical/blob/caf06811638681e4c9d854761436b2876a587f47/Question10.png)
 
 **Question 11:**
 
