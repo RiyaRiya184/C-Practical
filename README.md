@@ -19,13 +19,13 @@ inbuilt string functions
 
 a) Show address of each character in string
 
-b) Concatenate two stungs.
+b) Calculate two strings.
 
-c) Compare two strings
+c) Calculate two strings
 
-d) alculate enoth afthe strine fuse pointers"
+d) calculate length of the strine (use pointers)
 
-e) Convert al lowrease charoctens to unoereas
+e) Calculate all lowercase characters to uppercase
 
 ![image alt](https://github.com/RiyaRiya184/C-Practical/blob/0385a28bcf947b6bab5eb1f36c6ae5155279dd5f/Question4.png)
 
