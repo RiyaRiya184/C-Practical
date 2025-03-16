@@ -31,7 +31,7 @@
 
 **Question 8:**
 
-![image alt]()
+![image alt](https://github.com/RiyaRiya184/C-Practical/blob/cbf0310191ae2754984f7b0a6dba6fcedbcee8b7/Question8.png)
 
 **Question 9:**
 
