@@ -15,7 +15,7 @@
 
 **Question 4:**
 
-![image alt]()
+![image alt](https://github.com/RiyaRiya184/C-Practical/blob/0385a28bcf947b6bab5eb1f36c6ae5155279dd5f/Question4.png)
 
 **Question 5:**
 
