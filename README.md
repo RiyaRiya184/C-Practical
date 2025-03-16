@@ -55,4 +55,4 @@
 
 **Question 14:**
 
-![image alt]()
+![image alt](https://github.com/RiyaRiya184/C-Practical/blob/a54d29ba739176ea0437993607a2a7d54a42db5f/Question14.png)
