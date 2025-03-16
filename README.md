@@ -23,7 +23,7 @@
 
 **Question 6:**
 
-![image alt]()
+![image alt](https://github.com/RiyaRiya184/C-Practical/blob/c077c09ed0d6f233feb48b3b6761c91447de77a2/Question6.png)
 
 **Question 7:**
 
