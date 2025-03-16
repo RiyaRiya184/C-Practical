@@ -19,7 +19,7 @@
 
 **Question 5:**
 
-![immage alt]()
+![immage alt](https://github.com/RiyaRiya184/C-Practical/blob/c8c61227a029a2960ae16bcf78491b81c77c60de/Question5.png)
 
 **Question 6:**
 
