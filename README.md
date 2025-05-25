@@ -5,7 +5,7 @@
 
 **output:**
 
-**Qusetion 2:** Write a program to remove the duplicates from an array.
+**Question 2:** Write a program to remove the duplicates from an array.
 
 ![image alt](https://github.com/RiyaRiya184/C-Practical/blob/18929dcd767e33c0742ff711ce08717c793afe02/Question2.png)
 
