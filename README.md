@@ -9,12 +9,12 @@
 
 ![image alt](https://github.com/RiyaRiya184/C-Practical/blob/18929dcd767e33c0742ff711ce08717c793afe02/Question2.png)
 
-**Question 3:** Wnte a program that prints a table indicating the number of occurrences of cach alphabet
+**Question 3:** Write a program that prints a table indicating the number of occurrences of cach alphabet
 in the text entered as command line arguments. 
 
 ![image alt](https://github.com/RiyaRiya184/C-Practical/blob/3882e76fdd507e6674207af0d5404a01a5f60058/Question3.png)
 
-**Question 4:** Write a menu driven program to pertorm tollowing opcratsons on stunes without using
+**Question 4:** Write a menu driven program to perform following operations on strings without using
 inbuilt string functions
 
 a) Show address of each character in string
@@ -33,7 +33,7 @@ e) Calculate all lowercase characters to uppercase
 
 ![immage alt](https://github.com/RiyaRiya184/C-Practical/blob/c8c61227a029a2960ae16bcf78491b81c77c60de/Question5.png)
 
-**Question 6:**  Write a program to search a given clement in a set of N numbers using a Binany search 
+**Question 6:**  Write a program to search a given element in a set of N numbers using a Binany search 
 
 (i) with recursion 
 
@@ -49,7 +49,7 @@ e) Calculate all lowercase characters to uppercase
 
 ![image alt](https://github.com/RiyaRiya184/C-Practical/blob/5cb733adba1134cf4dd87d4435f2220305579646/Question7.png)
 
-**Question 8:** Create Matrix class. Write a menu-driven program to perfonn following Matrix operation: 
+**Question 8:** Create Matrix class. Write a menu-driven program to perform following Matrix operation: 
 
 i) sum 
 
